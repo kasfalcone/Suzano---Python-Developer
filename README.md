@@ -18,7 +18,7 @@ Neste **Bootcamp gratuito**, você desenvolverá **7 projetos** focados em **ide
 - 🎓 **Certificado de Conclusão** – Valide suas conquistas e impulsione sua carreira.  
 
 ## 🎯 Como participar?
-1. **Inscreva-se gratuitamente** no bootcamp.  
+1. **Inscreva-se gratuitamente** no bootcamp.  https://web.dio.me/track/823e5de7-79a5-44fe-a472-cfe6bb0fec00
 2. **Acompanhe as mentorias** e participe das atividades.  
 3. **Realize os desafios** e construa seus projetos práticos.  
 4. **Interaja com a comunidade** e aumente sua rede de contatos.  
